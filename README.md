@@ -1,4 +1,4 @@
-# Basic analysys for beginners
+# Basic analisys for beginners
 This is a guide for basic analysis that I consider useful and easy to implement. In each document you will find details on how to run different analyses.
 
 ## List of analyses
