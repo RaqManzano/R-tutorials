@@ -8,3 +8,4 @@ This is a guide for basic analysis that I consider useful and easy to implement.
 3. Immune cells devonvolution methods -- coming soon
 4. Sample clustering for Breast Cancer (PAM50/scmgene/IC10) -- coming soon
 5. RNA normalization -- coming soon
+6. Plot clinical and molecular data with [ComplexHeatmap](https://jokergoo.github.io/ComplexHeatmap-reference/book/) -- coming soon
